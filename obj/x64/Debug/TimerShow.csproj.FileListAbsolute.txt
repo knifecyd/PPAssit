@@ -1,0 +1,14 @@
+F:\VSProjects\TimerShow\TimerShow\bin\x64\Debug\TimerShow.exe.config
+F:\VSProjects\TimerShow\TimerShow\bin\x64\Debug\TimerShow.exe
+F:\VSProjects\TimerShow\TimerShow\bin\x64\Debug\TimerShow.pdb
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\Interop.MODI.dll
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.csproj.ResolveComReference.cache
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.HookTestWinForm.resources
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.TimerShowDlg.resources
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.VerificationNumDlg.resources
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.Properties.Resources.resources
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.csproj.GenerateResource.Cache
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.exe
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.pdb
+F:\VSProjects\TimerShow\TimerShow\obj\x64\Debug\TimerShow.csprojResolveAssemblyReference.cache
+F:\VSProjects\TimerShow\TimerShow\bin\x64\Debug\tessnet2_32.dll
